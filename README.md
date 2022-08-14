@@ -1,9 +1,6 @@
 # Project 2 | A 'Numbers Guy' Playing Wordle
 
-A couple months back, 
-a good mate of mine tried convincing me and another friend to start playing this game, 
-he was claiming it would be a great addition to our morning coffee.
-Little did he know how much joy it would bring to our morning routine.
+A few months ago, a good mate of mine tried convincing me and another friend to start playing this game; he was claiming it would be a great addition to our morning coffee. Little did he know how much joy it would bring to our morning routine. 
 
 ## Files uploaded
 
