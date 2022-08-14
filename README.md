@@ -13,7 +13,7 @@ A few months ago, a good mate of mine tried convincing me and another friend to 
 	- Terminal: (windows) save the file on DESKTOP, open CMD, type: 'cd Desktop' press Enter, type 'py wordle_solver.py' press Enter (must have python installed on computer).
 
 - run & play:
-	1. open "https://www.nytimes.com/games/wordle", This is where you'll play Wordle and get the feedback from the guessed words.  
+	1. open https://www.nytimes.com/games/wordle, This is where you'll play Wordle and get the feedback from the guessed words.  
 	2. At the start of every round, your required to type your 5 letter "Input guess" (the word you guessed in the real game). Type the 5 letter word and press Enter. 
 	3. Input information - input the feedback received from the official game. 
 		1. Green letters - type the green tile letters, seperate with ', ' and press Enter. Example: if you chose the word 'alone' and the first 3 letters came back green, your input would be: "a, l, o" + Enter.
