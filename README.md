@@ -20,11 +20,11 @@ A few months ago, a good mate of mine tried convincing me and another friend to 
 		2. Yellow letters - type the yellow tile letters, seperate with ', ' and press Enter.
 		3. Black letters - type the black tile letters, seperate with ', ' and press Enter.
 
-		** If there is a color which didnt appear - press enter to continue. **
+		**If there is a color which didnt appear - press enter to continue.**
 
 	4. The program will present the top 3 ranked words by the calculated metrics and as well as the 'Recommended word'. (The recommended word wont always be the top ranked word shown, due to the strategy used. For instance, first 3 rounds the recommended word is usually a word without repeated letters, while the top ranked word is biased towards 'strong letters' which repeat themselve)
-	5. New round, return to stage 2 until you have guessed the right word.
+	5. New round, return to stage ii until you have guessed the right word.
 
-		**You dont have to choose the recommended word, feel free to try any word you'd like**
+		**You dont have to choose the recommended word, feel free to try any word you'd like.**
 
 - winning/losing: The program will only know youve won if the recommended word was the last in the archive of words. Otherwise, you'll just need to close the terminal. In the case of losing, well, the program knows you only have 6 attempts and it'll know you've lost. 
